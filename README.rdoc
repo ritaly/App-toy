@@ -1,4 +1,0 @@
-Toy App, based on   
-Chapter 2
-https://www.railstutorial.org/book/toy_app
-https://ritaly-app-toy.herokuapp.com

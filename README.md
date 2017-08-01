@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
+he toy app developed in this chapter has several strengths and a host of weaknesses.  
 Things you may want to cover:
 
-* Ruby version
+##Strengths
 
-* System dependencies
+* High-level overview of Rails
+* Introduction to MVC
+* First taste of the REST architecture
+* Beginning data modeling
+* A live, database-backed web application in production  
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
